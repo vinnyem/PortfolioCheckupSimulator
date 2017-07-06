@@ -1,4 +1,4 @@
-# PortfolioCheckupSimulator
+# Portfolio Checkup Simulator
 
 This library uses Montecarlo simulations to provide an insight of how
 your portfolio will perform over X number of years depending on the
